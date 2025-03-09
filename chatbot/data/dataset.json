@@ -1,0 +1,4 @@
+[
+    {"input": "Hello!", "output": "Hi! How can I help you?"},
+    {"input": "مرحبًا!", "output": "أهلاً! كيف أساعدك؟"}
+]
